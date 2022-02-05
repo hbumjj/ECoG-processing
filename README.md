@@ -16,6 +16,8 @@ Data info
 - Each trial (Measuring by stimulation) consist of 2 sec (-0.3 pre-stimulation and +1.699 post-stimulation)
 - remove noise using Synchronizing averaging (ensemble averaging)
 - 8 stimulations ('Ears: 1', 'Eyes: 2', 'Throat: 3', 'Nose: 4', 'Sam: 5', 'Oh: 6', 'Gu: 7', 'Ship: 9')
+- Stimulating words and information on the stimulation time point is recored in the third column of the ECoG File 
+
 
 Auditory evoked potential (AEP) according to the stimulus word is obtained and compared 
 
