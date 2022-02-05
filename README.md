@@ -1,6 +1,5 @@
 # ECoG-processing
 
-* I'll upload the data file soon 
 
 The ECoG data is an electrode inserted into the lerft audio area and a signal measured by earlobe 
 
