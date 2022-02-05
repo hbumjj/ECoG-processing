@@ -21,3 +21,4 @@ Data info
 
 Auditory evoked potential (AEP) according to the stimulus word is obtained and compared 
 
+![rydfrhj](https://user-images.githubusercontent.com/95017140/152637104-dae04951-1e92-45cd-9890-cc00f282ca36.png)
