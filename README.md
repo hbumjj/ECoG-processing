@@ -5,7 +5,7 @@ The ECoG data is an electrode inserted into the lerft audio area and a signal me
 
 this processing use Synchronizing averaging and add triger (several stimulations) 
 
-ref: 
+ref: https://github.com/hbumjj/ERP-Synchronizing-average
 
 ![333](https://user-images.githubusercontent.com/95017140/152637019-1d0f9c2f-f751-4ffd-a6d1-7a89c332101a.jpg)
 
